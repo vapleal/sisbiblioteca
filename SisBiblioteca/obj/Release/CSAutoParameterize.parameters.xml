@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="dbBiblioteca-Web.config Connection String" description="dbBiblioteca Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\DBBiblioteca.mdf;Integrated Security=True;Connect Timeout=30" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\vanderlei\.aleal\\documents\\visual\ studio\ 2015\\Projects\\SisBiblioteca\\SisBiblioteca\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='dbBiblioteca']/@connectionString" />
+  </parameter>
+</parameters>
